@@ -15,3 +15,6 @@ To use this package in your Elm project, add it to your dependencies:
 
 ```bash
 elm install hanifhefaz/elm-tf-idf
+```
+
+Please check the demo to see the package in action!
