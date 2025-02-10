@@ -18,3 +18,11 @@ elm install hanifhefaz/elm-tf-idf
 ```
 
 Please check the demo to see the package in action!
+
+## ToDo
+
+- Implement caching for frequently computed TF and IDF values.
+- Handling Stop Words.
+- Normalizing the term frequency to account for document length variations.
+- Smoothing IDF Calculation.
+- ...
